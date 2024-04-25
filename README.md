@@ -1,10 +1,8 @@
-# Pewlett-Hackard-Analysis
-
-## Overiew
+# Overview
 
 The purpose of this analysis is to determine the number of retiring Pewlett-Hackard employees per title and identify retiring-employees who are eligible to participate in a mentorship program. The mentorship program is designed to pair experienced and successful employees with new hires. This allows retirement-eligible employees to step back into a part-time role instead of retiring completely.
 
-## Review
+## Analysis
 
 Retirement-eligible employees are employees born between 01/1952 and 12/1995.
 - Pewlett-Hackared has 240,124 employees of which 30% (72,458) are retirement-eligible. 
